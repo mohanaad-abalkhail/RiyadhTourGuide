@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3E2723</color>
+    <color name="colorPrimaryDark">#5D4037</color>
+    <color name="colorAccent">#D7CCC8</color>
+
+    <color name="masjed_background">#FB8C00</color>
+
+    <color name="restaurant_background">#FDD835</color>
+
+    <color name="outdoors_background">#388E3C</color>
+
+    <color name="milestones_background">#0288D1</color>
+</resources>

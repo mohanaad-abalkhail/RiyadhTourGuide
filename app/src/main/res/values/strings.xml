@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Riyadh Tour Guide</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_masjeds">Msajeds</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_milestones">Milstones</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_outdoors">Outdoors</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_resturant">Resturants</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- Strings for Masjed Fragment-->
+    <string name="masjed1_name">Alluhaidan</string>
+    <string name="masjed1_Info">the Imam name is Mohammed Alluhaidan and is known for a heavenly voice.</string>
+    <string name="masjed2_name">King Khaled</string>
+    <string name="masjed2_Info">the Imam name is Khaled Aljulaiel and is known for a great voice.</string>
+    <string name="masjed3_name">King Abdullah</string>
+    <string name="masjed3_Info">the Imam name is Nasser Alqutami and is known for a soft beautiful voice.</string>
+    <string name="masjed4_name">Aldukhaiel</string>
+    <string name="masjed4_Info">the Imam name is Yasser Aldawsri and is known for a interesting great voice.</string>
+    <string name="masjed5_name">Alrajhi</string>
+    <string name="masjed5_Info">the Imam name is Adel Alkalbani and is known for a calm humbled voice.</string>
+
+
+    <!-- Strings for Restaurant Fragment-->
+    <string name="restaurant1_name">Alrumanseah</string>
+    <string name="restaurant1_Info">Pioneers of Saudi meals in Arab world.</string>
+    <string name="restaurant2_name">Mandi Aleraja</string>
+    <string name="restaurant2_Info">A great small restaurant that serves Saudi traditional way of roasting meat.</string>
+    <string name="restaurant3_name">Najd Village (NV)</string>
+    <string name="restaurant3_Info">A pioneer in the field of traditional cuisine, established in 1996.</string>
+    <string name="restaurant4_name">Mama Noura</string>
+    <string name="restaurant4_Info">The best place in Riyadh to get shawrma established since 1990.</string>
+    <string name="restaurant5_name">Alsham</string>
+    <string name="restaurant5_Info">A local Breakfast specialised restaurant fast growing.</string>
+    <string name="restaurant6_name">Fowal Altaef</string>
+    <string name="restaurant6_Info">A wide chain of restaurants spread across the Kingdom they are the cheapest most delicious choice to eat.</string>
+
+    <!-- Strings for Milestones Fragment-->
+    <string name="milestone1_name">K.A.F.D</string>
+    <string name="milestone1_Info">The King Abdullah Financial District is reckoned one of the Kingdoms most ambitious projects, and a substantial addition to the economic sector.</string>
+    <string name="milestone2_name">The Masmak</string>
+    <string name="milestone2_Info">A clay and mud-brick fort, with four watchtowers and thick walls, founded on stone blocks, lying in the center of Riyadh, in the old quarters.</string>
+    <string name="milestone3_name">Mall Of Saudia</string>
+    <string name="milestone3_Info">This is the Biggest Mall in the region.</string>
+    <string name="milestone4_name">Al muaeqlyah</string>
+    <string name="milestone4_Info">This is a local product marketplace in the heart of the old Town in the middle of Riyadh.</string>
+    <string name="milestone5_name">King Saud University</string>
+    <string name="milestone5_Info">a public university in Riyadh, Saudi Arabia, founded in 1957, its considered the second largest in the world.</string>
+    <string name="milestone6_name">The Royal Saudi Air Force Museum</string>
+    <string name="milestone6_Info">The museum gives the history of the Royal Saudi Air Force from its establishment in the 1920s to the present day.</string>
+    <string name="milestone7_name">Diriyah</string>
+    <string name="milestone7_Info">Was the original home of the Saudi royal family, and served as the capital.</string>
+    <string name="milestone8_name">Al-Jenadriyah</string>
+    <string name="milestone8_Info">A cultural and heritage festival held in Jenadriyah.</string>
+
+    <!-- Strings for Outdoors Fragment-->
+    <string name="outdoor1_name">Al thumamh</string>
+    <string name="outdoor1_Info">A place to have picnickes in Riyadh Remote And in the heart of the deseret.</string>
+    <string name="outdoor2_name">Al khfs</string>
+    <string name="outdoor2_Info">A sweet heaven in the middle of heat.</string>
+    <string name="outdoor3_name">Kouryem</string>
+    <string name="outdoor3_Info">The place where the king likes to spend some leisure time.</string>
+    <string name="outdoor4_name">Al tenhat</string>
+    <string name="outdoor4_Info">A garden between thorns.</string>
+    <string name="outdoor5_name">Al dahna</string>
+    <string name="outdoor5_Info">A great place to experience the lifeStyle of the bedouins.</string>
+
+</resources>
